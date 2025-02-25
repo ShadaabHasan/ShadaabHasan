@@ -2,6 +2,8 @@
 
 I'm a passionate **Data Science Enthusiast** currently pursuing a **BE in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
 
+![Uploading Screenshot (905).png…]()
+
 ---
 
 ### About Me
@@ -25,9 +27,9 @@ I'm a passionate **Data Science Enthusiast** currently pursuing a **BE in Comput
 ---
 
 ### Connect With Me
-- 🔗 **Portfolio:** *(Coming Soon!)*
-- 🏢 **LinkedIn:** [Shadaab Hasan](https://www.linkedin.com/in/shadaabhasan/)
-- 📧 **Email:** [shadaabhasan7@gmail.com](mailto:shadaabhasan7@gmail.com)
+- **Portfolio:** *(Coming Soon!)*
+- **LinkedIn:** [Shadaab Hasan](https://www.linkedin.com/in/shadaab-hasan-4a9b92271/)
+- **Email:** [shadaabhasan7@gmail.com](mailto:shadaabhasan7@gmail.com)
 
 ---
 
