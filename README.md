@@ -1,6 +1,6 @@
 ### Hi there, I'm Shadaab Hasan! 
 
-I'm a passionate **Data Science Enthusiast** currently pursuing a **BE in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects. 🚀
+I'm a passionate **Data Science Enthusiast** currently pursuing a **BE in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
 
 ---
 
