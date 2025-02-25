@@ -8,7 +8,6 @@ I'm a passionate **Data Science & Software Development Enthusiast** currently pu
 - 📌 **Tech Stack:** `Flutter` | `React.js` | `Next.js` | `Python` | `Machine Learning` | `Firebase` | `Node.js`
 - 🎯 **Interests:** Data Science, AI, NLP, Software Development, Full-Stack Engineering
 - 🎓 **Education:** B.E. in Computer Engineering | MSc Data Analytics (2025)
-- 🌍 **Exploring:** AI-powered applications, Web development, and Scalable cloud solutions
 
 ---
 
@@ -33,10 +32,9 @@ I'm a passionate **Data Science & Software Development Enthusiast** currently pu
 ---
 
 ### 📫 Connect With Me
-- 🔗 **Portfolio:** [shadaab.dev](https://shadaab.dev) *(Coming Soon!)*
+- 🔗 **Portfolio:** *(Coming Soon!)*
 - 🏢 **LinkedIn:** [Shadaab Hasan](https://www.linkedin.com/in/shadaabhasan/)
-- 🐦 **Twitter:** [@shadaabdev](https://twitter.com/shadaabdev)
-- 📧 **Email:** [shadaabhasan.dev@gmail.com](mailto:shadaabhasan.dev@gmail.com)
+- 📧 **Email:** [shadaabhasan7@gmail.com](mailto:shadaabhasan7@gmail.com)
 
 ---
 
