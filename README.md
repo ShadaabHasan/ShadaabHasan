@@ -2,9 +2,9 @@
 
 I'm a passionate **Data Science Enthusiast** currently pursuing a **BE in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
 
-
+<p align="center">
 <img src="https://github.com/user-attachments/assets/e97df293-4422-49ed-ad93-7c38e7cb0522" width="750">
-
+</p>
 
 ---
 
