@@ -11,7 +11,7 @@ A passionate **Data Science Enthusiast** currently pursuing a **BE in Computer E
 ### About Me
 - **Tech Stack:** `React.js` | `Next.js` | `Python` | `Machine Learning` | `Firebase` | `R`
 - **Interests:** Data Science, AI, NLP, Software Development, Full-Stack Engineering
-- **Education:** B.E. in Computer Engineering | MSc Data Analytics (2025)
+- **Education:** B.E. in Computer Engineering | MSc Data Analytics (2026)
 
 ---
 
@@ -36,8 +36,9 @@ A passionate **Data Science Enthusiast** currently pursuing a **BE in Computer E
 ---
 
 ### GitHub Stats
+<p align="center">
 ![Shadaab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadaabhasan&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadaabhasan&layout=compact&theme=radical)
-
+</p>
 
