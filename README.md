@@ -36,9 +36,9 @@ A passionate **Data Science Enthusiast** currently pursuing a **BE in Computer E
 ---
 
 ### GitHub Stats
-<p align="center">
+
 ![Shadaab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadaabhasan&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadaabhasan&layout=compact&theme=radical)
-</p>
+
 
