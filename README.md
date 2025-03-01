@@ -1,6 +1,6 @@
 <h1 align="center">Shadaab Hasan</h1>
 
-A passionate **Data Science Enthusiast** currently pursuing a **BE in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
+An **aspiring Data Science** currently pursuing a **B.E. in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e97df293-4422-49ed-ad93-7c38e7cb0522" width="750">
@@ -12,6 +12,7 @@ A passionate **Data Science Enthusiast** currently pursuing a **BE in Computer E
 - **Tech Stack:** `React.js` | `Next.js` | `Python` | `Machine Learning` | `Firebase` | `R`
 - **Interests:** Data Science, AI, NLP, Software Development, Full-Stack Engineering
 - **Education:** B.E. in Computer Engineering | MSc Data Analytics (2026)
+- Enthusiastic about F1 and Automotive Technologies
 
 ---
 
