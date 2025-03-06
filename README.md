@@ -30,8 +30,8 @@ An **aspiring Data Science** currently pursuing a **B.E. in Computer Engineering
 ---
 
 ### Connect With Me
-- **Portfolio:** *(Coming Soon!)*
-- **LinkedIn:** [Shadaab Hasan](https://www.linkedin.com/in/shadaab-hasan-4a9b92271/)
+- [**Portfolio**](https://shadaabhasan.vercel.app/) 
+- [**LinkedIn**](https://www.linkedin.com/in/shadaab-hasan-4a9b92271/)
 - **Email:** [shadaabhasan7@gmail.com](mailto:shadaabhasan7@gmail.com)
 
 ---
