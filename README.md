@@ -38,7 +38,13 @@ An **aspiring Data Science** currently pursuing a **B.E. in Computer Engineering
 
 ### GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadaabhasan&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadaabhasan&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadaabhasan&show_icons=true&theme=radical" alt="Shadaab's GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadaabhasan&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadaabhasan&theme=radical" alt="Shadaab's Streak Stats" height="160"/>
+</p>
 
 
