@@ -1,7 +1,9 @@
 <h1 align="center">Shadaab Hasan</h1>
 
+An **aspiring Data Science** currently pursuing a **B.E. in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
+
 <p align="center">
-<img src="https://github.com/user-attachments/assets/e97df293-4422-49ed-ad93-7c38e7cb0522" width="750">
+<img src="https://github.com/user-attachments/assets/e97df293-4422-49ed-ad93-7c38e7cb0522" width="100%">
 </p>
 
 ---
@@ -12,14 +14,11 @@ class Profile:
     def __init__(self):
         self.name = "Shadaab Hasan"
         self.role = "Aspiring Data Scientist"
-        self.education = "B.E. in Computer Engineering (2025)| MSc Data Analytics (2026)"
-        self.language_spoken = ["English", "Hindi", "Urdu"]
-        self.interests = ["Machine Learning", "Data Science", "Data Analytics", "Web Development", 
-                          "NLP", "Software Development"]
 
     def say_hi(self):
         print("Thanks for dropping by!",
-              "I’m passionate about data science and analytics and always eager to learn and collaborate.")
+              "I’m passionate about data science and analytics and always eager to learn and collaborate.",
+              "Talk to me about Football, F1 and Automotive Technologies")
     
 
 const skills = {
@@ -38,17 +37,13 @@ const skills = {
     }
 };
 
-const projects = {
-        "Skin Cancer Recognition System (ML)",
-        "AI-powered Literature Review Summarization (NLP)",
-        "Student Feedback Review System (AI, React, Firebase)",
-        "F1 Circuit Performance Analysis (SQL, R)",
-        "Hotel Booking Analysis(SQL, R)",
-        "Portfolio Website(NextJS, TailwindCss)"
-};
-
-
 ```
+---
+### Projects
+- **[Hotel Booking Analysis]([https://github.com/ShadaabHasan/Big-data-hotel-booking-analysis])** - Data-driven insights on hotel booking trends 
+- **[Skin Cancer Recognition]([https://github.com/ShadaabHasan/Skin-cancer-recognition-system])** - ML-based skin lesion detection
+- **[Student Feedback System]([https://github.com/ShadaabHasan/student-review-system])** - AI-driven analysis for feedback processing
+- **[Formula 1 Data Visualisation]([https://github.com/ShadaabHasan/F1-Data-Visualisation])** - Exploring historical Formula 1 data through statistical analysis and visualizations
 ---
 
 ### Connect With Me
