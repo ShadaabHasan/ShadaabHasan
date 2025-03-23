@@ -1,6 +1,6 @@
 <h1 align="center">Shadaab Hasan</h1>
 
-An **aspiring Data Science** currently pursuing a **B.E. in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
+An **aspiring Data Scientist** currently pursuing a **B.E. in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e97df293-4422-49ed-ad93-7c38e7cb0522" width="100%">
