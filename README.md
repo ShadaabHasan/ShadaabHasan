@@ -1,39 +1,60 @@
 <h1 align="center">Shadaab Hasan</h1>
 
-An **aspiring Data Science** currently pursuing a **B.E. in Computer Engineering**. I have experience in **NextJS, React, Machine Learning, NLP, R and Web Development**, and I enjoy building impactful projects.
-
 <p align="center">
 <img src="https://github.com/user-attachments/assets/e97df293-4422-49ed-ad93-7c38e7cb0522" width="750">
 </p>
 
 ---
 
-### About Me
-- **Tech Stack:** `React.js` | `Next.js` | `Python` | `Machine Learning` | `Firebase` | `R`
-- **Interests:** Data Science, AI, NLP, Software Development, Full-Stack Engineering
-- **Education:** B.E. in Computer Engineering | MSc Data Analytics (2026)
-- Enthusiastic about F1 and Automotive Technologies
+```javascript
 
----
+class Profile:
+    def __init__(self):
+        self.name = "Shadaab Hasan"
+        self.role = "Aspiring Data Scientist"
+        self.education = "B.E. in Computer Engineering (2025)| MSc Data Analytics (2026)"
+        self.language_spoken = ["English", "Hindi", "Urdu"]
+        self.interests = ["Machine Learning", "Data Science", "Data Analytics", "Web Development", 
+                          "NLP", "Software Development"]
 
-### Projects
-- **[Hotel Booking Analysis]([https://github.com/ShadaabHasan/Big-data-hotel-booking-analysis])** - Data-driven insights on hotel booking trends 
-- **[Skin Cancer Recognition]([https://github.com/ShadaabHasan/Skin-cancer-recognition-system])** - ML-based skin lesion detection
-- **[Student Feedback System]([https://github.com/ShadaabHasan/student-review-system])** - AI-driven analysis for feedback processing
-- **[Formula 1 Data Visualisation]([https://github.com/ShadaabHasan/F1-Data-Visualisation])** - Exploring historical Formula 1 data through statistical analysis and visualizations
+    def say_hi(self):
+        print("Thanks for dropping by!",
+              "I’m passionate about data science and analytics and always eager to learn and collaborate.")
+    
 
----
+const skills = {
+    code: ["Python", "R", "Java", "JavaScript", "HTML", "CSS"],
+    askMeAbout: ["Data Science", "Data Analytics", "Web Development"],
+    technologies: {
+        frontEnd: {
+            js: ["React"],
+            css: ["Tailwind"],
+        },
+        backEnd: {
+            python: ["Flask"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB"],
+        tools: ["Git", "Jupyter Notebook", "VS Code"]
+    }
+};
 
-### Languages and Tools
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+const projects = {
+        "Skin Cancer Recognition System (ML)",
+        "AI-powered Literature Review Summarization (NLP)",
+        "Student Feedback Review System (AI, React, Firebase)",
+        "F1 Circuit Performance Analysis (SQL, R)",
+        "Hotel Booking Analysis(SQL, R)",
+        "Portfolio Website(NextJS, TailwindCss)"
+};
 
- 
+
+```
 ---
 
 ### Connect With Me
 - [**Portfolio**](https://shadaabhasan.vercel.app/) 
 - [**LinkedIn**](https://www.linkedin.com/in/shadaab-hasan-4a9b92271/)
-- **Email:** [shadaabhasan7@gmail.com](mailto:shadaabhasan7@gmail.com)
+- [shadaabhasan7@gmail.com](mailto:shadaabhasan7@gmail.com)
 
 ---
 
