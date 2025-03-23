@@ -17,9 +17,10 @@ An **aspiring Data Science** currently pursuing a **B.E. in Computer Engineering
 ---
 
 ### Projects
-- **[Hotel Booking Analysis]([https://github.com/your-repo](https://github.com/ShadaabHasan/Big-data-hotel-booking-analysis))** - Data-driven insights on hotel booking trends 
-- **[Skin Cancer Recognition]([https://github.com/your-repo](https://github.com/ShadaabHasan/Skin-cancer-recognition-system))** - ML-based skin lesion detection
-- **[Student Feedback System]([https://github.com/your-repo](https://github.com/ShadaabHasan/student-review-system))** - AI-driven analysis for feedback processing
+- **[Hotel Booking Analysis]([https://github.com/ShadaabHasan/Big-data-hotel-booking-analysis])** - Data-driven insights on hotel booking trends 
+- **[Skin Cancer Recognition]([https://github.com/ShadaabHasan/Skin-cancer-recognition-system])** - ML-based skin lesion detection
+- **[Student Feedback System]([https://github.com/ShadaabHasan/student-review-system])** - AI-driven analysis for feedback processing
+- **[Formula 1 Data Visualisation]([https://github.com/ShadaabHasan/F1-Data-Visualisation])** - Exploring historical Formula 1 data through statistical analysis and visualizations
 
 ---
 
