@@ -33,7 +33,7 @@ An **aspiring Data Science** currently pursuing an **MSc in Computer Science - D
 ### Connect With Me
 - [**Portfolio**](https://shadaabhasan.vercel.app/) 
 - [**LinkedIn**](https://www.linkedin.com/in/shadaab-hasan-4a9b92271/)
-- [shadaabhasan7@gmail.com](mailto:shadaabhasan7@gmail.com)
+- [**E-mail**](mailto:shadaabhasan7@gmail.com)
 
 ---
 
